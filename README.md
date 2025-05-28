@@ -4,15 +4,15 @@
 
 🔭 Currently building a <b>SuperFarm Dashboard</b> with React.js and Recharts to visualize smart agriculture data and creating responsive, user-friendly web apps.<br><br>
 
-🤝 Looking to collaborate on open-source React projects and with designers/backend developers for full-stack apps.<br><br>
+🤝 Looking to collaborate on Machine Learning projects and with data scientists, researchers on real-world ML pipelines and applications.<br><br>
 
-🙏 Seeking help to improve advanced React patterns, performance optimization, and best practices for deployment and state management.<br><br>
+🙏 Seeking mentorship and feedback on improving model evaluation, feature engineering, and deploying ML systems at scale.<br><br>
 
-🌱 Learning TypeScript, testing with Jest & React Testing Library, and UI/UX design principles.<br><br>
+🌱 Currently exploring advanced ML topics like time-series analysis, unsupervised learning, and CNNs for image classification. Also learning MLOps tools for seamless model deployment.<br><br>
 
-💬 Ask me about React.js, data visualization, responsive layouts, and working with JSON/APIs.<br><br>
+💬 Ask me about regression, classification, clustering, CNNs, Pandas, NumPy, and data visualization with Python.<br><br>
 
-⚡ Fun fact: I love merging tech with agriculture to help farmers make data-driven decisions and turning complex data into clear visuals.
+⚡ Fun fact: I love turning raw data into meaningful insights and building intelligent systems that solve real-world problems — from anomaly detection to personalized recommendations.
 
 
 
